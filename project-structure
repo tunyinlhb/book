@@ -1,0 +1,18 @@
+time-traveler-diary/
+├── index.html
+├── css/
+│   ├── style.css
+│   └── animations.css
+├── js/
+│   ├── main.js
+│   └── animations.js
+└── assets/
+    ├── images/
+    │   ├── backgrounds/
+    │   │   ├── future.jpg
+    │   │   ├── jazz.jpg
+    │   │   └── renaissance.jpg
+    │   └── textures/
+    │       ├── paper-texture.png
+    │       └── leather-texture.png
+    └── fonts/ 
